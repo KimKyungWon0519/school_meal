@@ -1,5 +1,5 @@
 import 'package:school_meal/routes/routes.dart';
-import 'package:school_meal/ui/page/search_page/search_page.dart';
+import 'package:school_meal/ui/pages/search_page/search_page.dart';
 
 abstract class Pages {
   Pages._();
